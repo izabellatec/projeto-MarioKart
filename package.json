@@ -1,0 +1,13 @@
+{
+  "name": "projeto-teste",
+  "version": "1.0.0",
+  "main": "projetoSimulador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"ola evelyn\" && exit 1 "
+  },
+  "keywords": ["project", "minha primeira api"],
+  "author": "izabella christine",
+  "license": "ISC",
+  "description": "meu primeiro projeto nodejs"
+}
